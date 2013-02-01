@@ -1,0 +1,9 @@
+[submodule "layers/meta-sunxi"]
+	path = layers/meta-sunxi
+	url = git://github.com/mtrx/meta-sunxi.git
+[submodule "layers/meta-oe"]
+	path = layers/meta-oe
+	url = git://github.com/openembedded/meta-oe.git
+[submodule "poky"]
+	path = poky
+	url = git://git.yoctoproject.org/poky
